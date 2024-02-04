@@ -1,7 +1,6 @@
 # AudioScripter 🎙️
 
-Enhance your language skills with our intuitive application.
-Its working with OpenAI's Whisper API.
+AudioScripter is a simple tool that uses OpenAI's Whisper API to transcribe voice recordings into text. Users can easily record or upload audio and use their own OpenAI API key for transcription, making it straightforward and user-friendly.
 
 ## Features 🌟
 
