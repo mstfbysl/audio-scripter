@@ -49,7 +49,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📫
 
-- Your Name - your_email@example.com
 - Project Link: [https://github.com/mstfbysl/audio-scripter](https://github.com/mstfbysl/audio-scripter)
 
 Made with ❤️ by the msftbysl.
