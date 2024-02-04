@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo
-- git clone https://github.com/mstfbysl/AudioScripter.git
+- git clone https://github.com/mstfbysl/audio-scripter.git
 2. Install NPM packages
 - npm install
 
