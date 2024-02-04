@@ -1,6 +1,7 @@
 # AudioScripter 🎙️
 
-Enhance your language skills with our intuitive application. Its working with OpenAI's Whisper API.
+Enhance your language skills with our intuitive application.
+Its working with OpenAI's Whisper API.
 
 ## Features 🌟
 
@@ -49,7 +50,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact 📫
 
 - Your Name - your_email@example.com
-- Project Link: [https://github.com/your_username/AudioScripter](https://github.com/your_username/AudioScripter)
+- Project Link: [https://github.com/mstfbysl/audio-scripter](https://github.com/mstfbysl/audio-scripter)
 
 Made with ❤️ by the msftbysl.
-
