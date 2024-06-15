@@ -10,7 +10,7 @@ AudioScripter is a simple tool that uses OpenAI's Whisper API to transcribe voic
 
 ## Demo 📺
 
-Try out AudioScripter [here](https://audio-scripter.elselab.dev).
+Try out AudioScripter [here](https://audioscript.elselab.dev).
 
 ## Getting Started 🚀
 
